@@ -4,7 +4,7 @@
   uses: ktomk/run-travis-yml@v1.7.0
   with:
     # Path to `.travis.yml` file. Leave empty / unset for default
-`.travis.yml`. Relative to project root. Overrides the
+`https://github.com/morantis/litecoin/blob/6734a2b37009e68e5af8861ccb5b01726efdb6d8/.travis.yml`. Relative to project root. Overrides the
 `TRAVIS_YAML_FILE` environment variable if non-empty.
 
     file: # optional, default is 
